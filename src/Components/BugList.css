@@ -1,0 +1,29 @@
+.setlist {
+  list-style: none;
+  padding: 0;
+}
+.expense-item {
+  border-radius: 5px;
+  background-color: rgb(83, 30, 30);
+  padding: 20px;
+  align-items: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.designbtn {
+  font: inherit;
+  border: 1px solid #4f005f;
+  background: #2b5f00;
+  color: white;
+  padding: 0.25rem 1rem;
+  cursor: pointer;
+}
+.designbtn1 {
+  font: inherit;
+  border: 1px solid #4f005f;
+  background: #77340d;
+  color: white;
+  padding: 0.25rem 1rem;
+  cursor: pointer;
+}

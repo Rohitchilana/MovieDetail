@@ -1,0 +1,45 @@
+.container {
+  border-radius: 5px;
+  background-color: aqua;
+  padding: 20px;
+  align-items: center;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.lab__inp {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+.action {
+  text-align: center;
+}
+.action button {
+  font: inherit;
+  border: 1px solid #4f005f;
+  background: #4f005f;
+  color: white;
+  padding: 0.25rem 1rem;
+  cursor: pointer;
+}
+
+.action button:hover,
+.button:active {
+  background: #741188;
+  border-color: #741188;
+}
+
+.action button:focus {
+  outline: none;
+}
+
+.expense-item h2 {
+  color: #3a3a3a;
+  font-size: 1rem;
+  flex: 1;
+  margin: 0 1rem;
+  color: white;
+}

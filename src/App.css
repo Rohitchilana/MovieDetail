@@ -1,0 +1,16 @@
+.designappbtn {
+  font: inherit;
+  border: 1px solid #4f005f;
+  background: #5c0b0b;
+  color: white;
+  padding: 0.25rem 1rem;
+  cursor: pointer;
+  margin-right: auto;
+  margin-left: auto;
+  height: 5rem;
+}
+.adjustbtn {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 60%;
+}
