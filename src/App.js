@@ -29,6 +29,7 @@ function App() {
   const removeAllHandler = () => {
     setBugList([]);
   };
+  //this is me
   //Editing Bugs
   const editHandler = (id) => {
     let editingItem = bugList.find((ele) => {
